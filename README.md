@@ -7,7 +7,7 @@ Team member 2: **Yiying Zhang**
 
 The program implements k-means algorithm based on the iris dataset, **iris_proc.data**. It contains two files: **kmeans.py** and **iris_kmeans.py**. The program produces a text file called **kmeans_result.txt**, which stores the accuracy results of 1000 tests.
 
-The project was our team work originally shared on Dropbox in 2015. This reporsitory is just a transplant.
+The project was our team work originally shared on Dropbox in 2015. This repository is just a transplant.
 
 
 ##Usage##
